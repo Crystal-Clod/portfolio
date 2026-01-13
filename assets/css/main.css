@@ -1578,7 +1578,19 @@ input, select, textarea {
 		border-bottom: solid 1px #ccc;
 		padding: 2.75em 1.75em 2.75em 1.75em;
 	}
+		.box .videoContainer
+		{
+			position:absolute;
+			height:100%;
+			width:100%;
+			overflow: hidden;
+		}
 
+		.box .videoContainer video
+		{
+			min-width: 100%;
+			min-height: 100%;
+		}
 		.box .image.featured {
 			position: relative;
 			width: auto;
