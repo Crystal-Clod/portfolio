@@ -56,7 +56,7 @@ body {
 }
 
 mark {
-	background-color: #ff6d92;
+	background-color: #d8bfd8;
 	color: inherit;
 }
 
@@ -83,7 +83,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #ff6d92;
+		background: #e8e7cb;
 		background-image: url("images/bg02.png");
 	}
 
@@ -101,13 +101,13 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Source Sans Pro';
 		font-weight: 300;
-		color: #ebfffa;
+		color: #f7ffae;
 		font-size: 14pt;
 		line-height: 1.75em;
 	}
 
 	strong, b {
-		color: #ebfffa;
+		color: #f7ffae;
 		font-weight: 400;
 	}
 
@@ -134,12 +134,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #554d60;
-		text-shadow:
-    	1px 1px 0 #ff6d92,
-    	-1px 1px 0 #ff6d92,
-    	-1px -1px 0 #ff6d92,
-    	1px -1px 0 #ff6d92;
+		color: #fca6ac;
 		font-weight: 700;
 	}
 
@@ -157,7 +152,7 @@ input, select, textarea {
 	}
 
 	a {
-		color: #d52349;
+		color: #91c5a9;
 		text-decoration: underline;
 	}
 
@@ -1474,8 +1469,7 @@ input, select, textarea {
 		padding: 0.75em 1em;
 		font-size: 1em;
 		border-radius: 5px;
-		border: solid 1px #dddddd;
-		background: #ff6d92;
+		background: #e8e7cb;
 		width: 100%;
 	}
 
@@ -1564,13 +1558,13 @@ input, select, textarea {
 		header.major {
 			position: relative;
 			text-align: center;
-			border-top: dashed 10px #554d60;
+			border-top: dashed 10px #7860a3;
 			top: 1em;
 			margin: 0 0 3em 0;
 		}
 
 			header.major h2 {
-				background: #ff6d92;
+				background: #AEFA96;
 				position: relative;
 				top: -0.65em;
 				display: inline;
@@ -1585,8 +1579,8 @@ input, select, textarea {
 /* Box */
 
 	.box {
-		background: #554d60;
-		border-bottom: solid 15px #bff4b2;
+		background: #7860a3;
+		border-bottom: solid 15px #91c5a9;
 		padding: 2.75em 1.75em 2.75em 1.75em;
 		flex: 1;
 	}
@@ -1931,7 +1925,7 @@ input, select, textarea {
 				height: 3em;
 				text-align: center;
 				border-radius: 5px;
-				background: #ff6d92;
+				background: #91c5a9;
 				-moz-transition: background-color .25s ease-in-out;
 				-webkit-transition: background-color .25s ease-in-out;
 				-ms-transition: background-color .25s ease-in-out;
@@ -2083,14 +2077,13 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		background: #ff6d92;
-		border-bottom: solid 1px #ebfffa;
+		background: #e8e7cb;
 		padding: 5em 0 4em 0;
 		text-align: center;
 	}
 
 		#header h1 {
-			color: #554d60;
+			color: #7860a3;
 			font-weight: 900;
 			font-size: 5em;
 			letter-spacing: -0.035em;
@@ -2119,7 +2112,7 @@ input, select, textarea {
 
 				#nav > ul > li > a {
 					border-radius: 5px;
-					color: #ebfffa;
+					color: #7860a3;
 					text-decoration: none;
 					padding: 0.6em 1.2em 0.6em 1.2em;
 					-moz-transition: background-color .25s ease-in-out;
@@ -2130,23 +2123,24 @@ input, select, textarea {
 				}
 
 				#nav > ul > li:hover > a, #nav > ul > li.active > a {
-					background: #554d60;
+					background: #7860a3;
+					color: #91c5a9;
 				}
 
 				#nav > ul > li.current > a {
-					background: #554d60;
-					color: #ebfffa !important;
+					background: #7860a3;
+					color: #91c5a9 !important;
 					font-weight: 700;
 				}
 
 	.dropotron {
 		border-radius: 5px;
-		background-color: #554d60;
-		background-color: #554d60;
+		background-color: #7860a3;
+		background-color: #7860a3;
 		padding: 1.25em 1.5em 1.25em 1.5em;
 		font-style: italic;
 		min-width: 13em;
-		box-shadow: 0px 8px 15px 0px #554d60;
+		box-shadow: 0px 8px 15px 0px #7860a3;
 		text-align: left;
 		margin-top: -1.25em;
 		margin-left: -1px;
@@ -2154,7 +2148,7 @@ input, select, textarea {
 	}
 
 		.dropotron a, .dropotron span {
-			color: #554d60;
+			color: #7860a3;
 			text-decoration: none;
 			-moz-transition: color .25s ease-in-out;
 			-webkit-transition: color .25s ease-in-out;
@@ -2183,14 +2177,14 @@ input, select, textarea {
 				top: -9px;
 				border-left: solid 10px transparent;
 				border-right: solid 10px transparent;
-				border-bottom: solid 10px #554d60;
-				border-bottom-color: #554d60;
+				border-bottom: solid 10px #7860a3;
+				border-bottom-color: #7860a3;
 			}
 
 /* Banner */
 
 	#banner {
-		background: #554d60 url("../../images/pic01.jpg");
+		background: #7860a3 url("../../images/pic01.jpg");
 		background-position: center center;
 		background-size: auto 100%;
 		background-repeat: no-repeat;
@@ -2283,8 +2277,8 @@ input, select, textarea {
 
 	#main {
 		position: relative;
-		background: #bff4b2 url("images/bg02.png");
-		outline: 15px solid #554d60;
+		background: #91c5a9 url("images/bg02.png");
+		outline: 15px solid #7860a3;
 		padding: 4em 0 4em 0;
 	}
 
@@ -2301,14 +2295,14 @@ input, select, textarea {
 		}
 
 		#main .major h2 {
-			background: #554d60 url("images/bg02.png");
+			background: #7860a3 url("images/bg02.png");
 		}
 
 /* Footer */
 
 	#footer {
 		position: relative;
-		color: #ebfffa;
+		color: #f7ffae;
 		padding: 4em 0;
 	}
 
@@ -2329,7 +2323,7 @@ input, select, textarea {
 		}
 
 		#footer h2, #footer h3, #footer h4, #footer h5, #footer h6, #footer strong, #footer b {
-			color: #ebfffa;
+			color: #f7ffae;
 		}
 
 			#footer h2 a, #footer h3 a, #footer h4 a, #footer h5 a, #footer h6 a, #footer strong a, #footer b a {
