@@ -1588,6 +1588,7 @@ input, select, textarea {
 		background: #554d60;
 		border-bottom: solid 15px #bff4b2;
 		padding: 2.75em 1.75em 2.75em 1.75em;
+		flex: 1;
 	}
 		
 		.box .image.featured {
