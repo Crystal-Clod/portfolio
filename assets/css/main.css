@@ -1933,7 +1933,7 @@ input, select, textarea {
 			}
 
 				ul.social li a:before {
-					color: #fff;
+					color: #fca6ac;
 					font-size: 2em;
 					line-height: 1.5em;
 				}
@@ -2319,7 +2319,7 @@ input, select, textarea {
 		}
 
 		#footer a {
-			color: #c5c4c4;
+			color: #fca6ac;
 		}
 
 		#footer h2, #footer h3, #footer h4, #footer h5, #footer h6, #footer strong, #footer b {
