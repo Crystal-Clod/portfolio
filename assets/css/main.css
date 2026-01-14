@@ -101,13 +101,13 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Source Sans Pro';
 		font-weight: 300;
-		color: #f7ffae;
+		color: #e8e7cb;
 		font-size: 14pt;
 		line-height: 1.75em;
 	}
 
 	strong, b {
-		color: #f7ffae;
+		color: #fca6ac;
 		font-weight: 400;
 	}
 
@@ -128,7 +128,7 @@ input, select, textarea {
 	}
 
 	blockquote {
-		border-left: solid 0.75em #dddddd;
+		border-left: solid 0.75em #fca6ac;
 		padding: 1em 0 1em 1.5em;
 		font-style: italic;
 	}
@@ -2302,7 +2302,7 @@ input, select, textarea {
 
 	#footer {
 		position: relative;
-		color: #f7ffae;
+		color: #e8e7cb;
 		padding: 4em 0;
 	}
 
@@ -2323,7 +2323,7 @@ input, select, textarea {
 		}
 
 		#footer h2, #footer h3, #footer h4, #footer h5, #footer h6, #footer strong, #footer b {
-			color: #f7ffae;
+			color: #e8e7cb;
 		}
 
 			#footer h2 a, #footer h3 a, #footer h4 a, #footer h5 a, #footer h6 a, #footer strong a, #footer b a {
