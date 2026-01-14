@@ -1626,7 +1626,7 @@ input, select, textarea {
 		border: 0;
 		border-radius: 5px;
 		background: #d52349;
-		color: #fff !important;
+		color: #7860a3 !important;
 		font-weight: 700;
 		outline: 0;
 		font-size: 1.1em;
@@ -2161,7 +2161,7 @@ input, select, textarea {
 		}
 
 			.dropotron li:hover > a, .dropotron li:hover > span {
-				color: #fff;
+				color: #7860a3;
 			}
 
 		.dropotron.level-0 {
@@ -2202,7 +2202,7 @@ input, select, textarea {
 		}
 
 			#banner header h2 {
-				color: #fff;
+				color: #7860a3;
 				font-weight: 700;
 				font-size: 2.5em;
 				margin: 0 0 0.65em 0;
@@ -2611,7 +2611,7 @@ input, select, textarea {
 						height: 40px;
 						line-height: 40px;
 						font-size: 18px;
-						color: #fff;
+						color: #7860a3;
 						text-align: center;
 						background: rgba(150, 150, 150, 0.75);
 						border-radius: 5px;
@@ -2688,7 +2688,7 @@ input, select, textarea {
 				}
 
 				#navPanel .depth-0 {
-					color: #fff;
+					color: #7860a3;
 				}
 
 			body.navPanel-visible #page-wrapper {
