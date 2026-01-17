@@ -100,6 +100,7 @@ input, select, textarea {
 
 	body, input, textarea, select {
 		font-family: 'Klavika', 'Font Awesome 5';
+		src: local('Klavika-Bold');
 		font-weight: 300;
 		color: #e8e7cb;
 		font-size: 14pt;
@@ -2004,6 +2005,7 @@ input, select, textarea {
 			line-height: 1;
 			text-transform: none !important;
 			font-family: 'Klavika', 'Font Awesome 5';
+			src: local('Klavika-Bold');
 			font-weight: 400;
 		}
 
@@ -2598,6 +2600,7 @@ input, select, textarea {
 						line-height: 1;
 						text-transform: none !important;
 						font-family: 'Klavika', 'Font Awesome 5';
+						src: local('Klavika-Bold');
 						font-weight: 900;
 					}
 
