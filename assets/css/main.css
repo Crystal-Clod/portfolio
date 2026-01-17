@@ -1,7 +1,7 @@
 /*@import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,900,300italic");*/
 @font-face {
-	font-family: Klavika-Bold;
+	font-family: klavika;
 	font-style: bold;
 	font-weight: 700;
 	src: url(Klavika-Bold.woff2);
@@ -1461,7 +1461,7 @@ input, select, textarea {
 
 	form label {
 		display: block;
-		color: #252122;
+		color: #7860a3;
 		font-weight: 400;
 		margin: 0 0 0.5em 0;
 	}
@@ -2020,7 +2020,7 @@ input, select, textarea {
 		}
 
 		.icon.brands:before {
-			font-family: 'Font Awesome 5 Brands';
+			font-family: klavika;
 		}
 
 		.icon:before {
@@ -2870,7 +2870,7 @@ input, select, textarea {
 			}
 
 				#header h1 {
-					color: #252122;
+					color: #7860a3;
 					font-weight: 900;
 					font-size: 1.75em;
 					letter-spacing: -0.035em;
