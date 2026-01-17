@@ -1,8 +1,10 @@
 /*@import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,900,300italic");*/
 @font-face {
-	font-family: klavika-web;
-	src: url(Klavika-Bold.woff2);
+	font-family: klavika-web, sans-serif;
+	font-style: bold;
+	font-weight: 700;
+	src: url(klavika-web.woff2);
 }
 
 /*
@@ -103,9 +105,9 @@ input, select, textarea {
 		}
 
 	body, input, textarea, select {
-		font-family: 'Klavika', 'Font Awesome 5';
-		src: url(../webfonts/Klavika-Bold.woff2);
-		font-weight: 300;
+		font-family: klavika-web, sans-serif;
+		font-style: bold;
+		font-weight: 700;
 		color: #e8e7cb;
 		font-size: 14pt;
 		line-height: 1.75em;
@@ -2003,14 +2005,13 @@ input, select, textarea {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
 			display: inline-block;
-			font-style: normal;
-			font-variant: normal;
+			font-variant: bold;
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
-			font-family: 'Klavika', 'Font Awesome 5';
-			src: url(../webfonts/Klavika-Bold.woff2);
-			font-weight: 400;
+			font-family: klavika-web, sans-serif;
+			font-style: bold;
+			font-weight: 700;
 		}
 
 		.icon.solid:before {
@@ -2603,8 +2604,8 @@ input, select, textarea {
 						text-rendering: auto;
 						line-height: 1;
 						text-transform: none !important;
-						font-family: 'Klavika', 'Font Awesome 5';
-						src: url(../webfonts/Klavika-Bold.woff2);
+						font-family: klavika-web, sans-serif;
+						font-style: bold;
 						font-weight: 900;
 					}
 
