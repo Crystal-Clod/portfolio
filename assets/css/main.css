@@ -1,10 +1,12 @@
 /*@import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,900,300italic");*/
 @font-face {
-	font-family: "Klavika";
-	font-style: bold;
+	font-family: 'Klavika Bd';
+    font-weight: bold;
+    font-style: normal;
 	font-weight: 700;
 	src: url('Klavika-Bold.woff2') format('woff2'),
+		 url('Klavika-Bold.woff') format('woff'),
 		 url('Klavika-Bold.ttf') format('truetype'),
 		 local("Klavika-Bold");
 }
