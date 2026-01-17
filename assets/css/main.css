@@ -4,8 +4,8 @@
 	font-family: "Klavika";
 	font-style: bold;
 	font-weight: 700;
-	src: url(Klavika-Bold.woff2) format('woff2'),
-		 url(Klavika-Bold.ttf) format('truetype'),
+	src: url('Klavika-Bold.woff2') format('woff2'),
+		 url('Klavika-Bold.ttf') format('truetype'),
 		 local("Klavika-Bold");
 }
 
