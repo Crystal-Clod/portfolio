@@ -1,10 +1,11 @@
 /*@import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,900,300italic");*/
 @font-face {
-	font-family: klavika-web, sans-serif;
+	font-family: Klavika-Bold;
 	font-style: bold;
 	font-weight: 700;
-	src: url(klavika-web.woff2);
+	src: url(Klavika-Bold.woff2);
+	src: url(Klavika-Bold.ttf);
 }
 
 /*
@@ -105,7 +106,7 @@ input, select, textarea {
 		}
 
 	body, input, textarea, select {
-		font-family: klavika-web, sans-serif;
+		font-family: klavika;
 		font-style: bold;
 		font-weight: 700;
 		color: #e8e7cb;
@@ -2009,7 +2010,7 @@ input, select, textarea {
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
-			font-family: klavika-web, sans-serif;
+			font-family: klavika;
 			font-style: bold;
 			font-weight: 700;
 		}
@@ -2604,7 +2605,7 @@ input, select, textarea {
 						text-rendering: auto;
 						line-height: 1;
 						text-transform: none !important;
-						font-family: klavika-web, sans-serif;
+						font-family: klavika;
 						font-style: bold;
 						font-weight: 900;
 					}
