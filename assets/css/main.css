@@ -111,7 +111,7 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-style: bold;
 		font-weight: 700;
-		font-family: "Klavika";
+		font-family: 'Klavika Bd';
 		color: #e8e7cb;
 		font-size: 14pt;
 		line-height: 1.75em;
@@ -146,7 +146,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #fca6ac;
-		font-family: "Klavika";
+		font-family: 'Klavika Bd';
 		font-weight: 700;
 	}
 
@@ -1466,7 +1466,7 @@ input, select, textarea {
 	form label {
 		display: block;
 		color: #7860a3;
-		font-family: "Klavika";
+		font-family: 'Klavika Bd';
 		font-weight: 400;
 		margin: 0 0 0.5em 0;
 	}
@@ -2015,7 +2015,7 @@ input, select, textarea {
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
-			font-family: "Klavika";
+			font-family: 'Klavika Bd';
 			font-style: bold;
 			font-weight: 700;
 		}
@@ -2025,7 +2025,7 @@ input, select, textarea {
 		}
 
 		.icon.brands:before {
-			font-family: "Klavika";
+			font-family: 'Klavika Bd';
 		}
 
 		.icon:before {
@@ -2097,7 +2097,7 @@ input, select, textarea {
 
 		#header h1 {
 			color: #7860a3;
-			font-family: "Klavika";
+			font-family: 'Klavika Bd';
 			font-weight: 900;
 			font-size: 5em;
 			letter-spacing: -0.035em;
@@ -2144,7 +2144,7 @@ input, select, textarea {
 				#nav > ul > li.current > a {
 					background: #7860a3;
 					color: #91c5a9 !important;
-					font-family: "Klavika";
+					font-family: 'Klavika Bd';
 					font-weight: 700;
 				}
 
@@ -2154,7 +2154,7 @@ input, select, textarea {
 		background-color: #7860a3;
 		padding: 1.25em 1.5em 1.25em 1.5em;
 		font-style: italic;
-		font-family: "Klavika";
+		font-family: 'Klavika Bd';
 		min-width: 13em;
 		box-shadow: 0px 8px 15px 0px #7860a3;
 		text-align: left;
@@ -2219,7 +2219,7 @@ input, select, textarea {
 
 			#banner header h2 {
 				color: #7860a3;
-				font-family: "Klavika";
+				font-family: 'Klavika Bd';
 				font-weight: 700;
 				font-size: 2.5em;
 				margin: 0 0 0.65em 0;
@@ -2614,7 +2614,7 @@ input, select, textarea {
 						text-rendering: auto;
 						line-height: 1;
 						text-transform: none !important;
-						font-family: "Klavika";
+						font-family: 'Klavika Bd';
 						font-style: bold;
 						font-weight: 900;
 					}
@@ -2629,7 +2629,7 @@ input, select, textarea {
 						height: 40px;
 						line-height: 40px;
 						font-size: 18px;
-						font-family: "Klavika";
+						font-family: 'Klavika Bd';
 						color: #7860a3;
 						text-align: center;
 						background: rgba(150, 150, 150, 0.75);
@@ -2881,7 +2881,7 @@ input, select, textarea {
 
 				#header h1 {
 					color: #7860a3;
-					font-family: "Klavika";
+					font-family: 'Klavika Bd';
 					font-weight: 900;
 					font-size: 1.75em;
 					letter-spacing: -0.035em;
